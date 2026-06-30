@@ -1,3 +1,5 @@
-data=[1,2,3,4,5,6,7,8,9,10]
-data[3:6]=[99, 88, 77]
-print(data)
+name = "saffan"
+age = 20
+city = "anand"
+favorite_language = "Python"
+print(f"My name is {name}, I am {age} years old, I live in {city}, and my favorite programming language is {favorite_language}.")

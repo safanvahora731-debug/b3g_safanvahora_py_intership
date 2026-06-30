@@ -1,3 +1,10 @@
-names = ["riya sharma", "aman gupta", "sara khan", "kabir singh"]
-title_names = [name.title() for name in names]
-print(title_names)
+a=21
+b=22.5
+c="25"
+d=True
+e="True"
+print(type(a),a)
+print(type(b),b)
+print(type(c),c)
+print(type(d),d)
+print(type(e),e)
